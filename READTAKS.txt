@@ -1,0 +1,21 @@
+Beberapa Ide Tugas:
+
+1. Analisis Tren Kematian: Jelajahi kumpulan data dan lacak tren kematian dari waktu ke waktu. Identifikasi perubahan signifikan, lonjakan, atau penurunan jumlah 
+			   kematian.
+
+2. Analisis Demografi: Melakukan analisis demografi dengan memeriksa usia, jenis kelamin, dan kewarganegaraan individu yang dibunuh. Tentukan apakah ada pola atau 
+		       perbedaan penting dalam data.
+
+3. Analisis Geospasial: Memanfaatkan informasi lokasi peristiwa, distrik, dan wilayah untuk melakukan analisis geospasial. Visualisasikan distribusi korban jiwa 
+		        pada peta dan identifikasi wilayah yang mengalami tingkat kekerasan lebih tinggi.
+
+4. Analisis Partisipasi Permusuhan: Selidiki sejauh mana partisipasi individu dalam permusuhan sebelum kematian mereka. Analisis hubungan antara partisipasi dan 
+				    keadaan di sekitar setiap kematian.
+
+5. Analisis Cedera: Periksa jenis cedera yang ditimbulkan pada individu. Identifikasi jenis cedera yang paling umum dan kaji tingkat keparahannya.
+
+6. Senjata yang Digunakan: Analisis amunisi dan sarana yang digunakan untuk membunuh individu tersebut. Tentukan senjata atau metode yang paling sering digunakan 
+			   dan evaluasi dampaknya.
+
+7. Profil Korban: Membuat profil korban berdasarkan data yang tersedia seperti usia, jenis kelamin, kewarganegaraan, dan tempat tinggal. Identifikasi karakteristik 
+		  umum di antara para korban. 
